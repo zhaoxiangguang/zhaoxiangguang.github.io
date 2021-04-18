@@ -10,5 +10,11 @@
         "icon":"chinaxx.png",
         "desc":"便捷的限行尾号查询，一次设置，永久安心。支持自定义限行规则、支持多号牌管理、支持桌面小组件、支持Apple Watch。",
         "url":"https://apps.apple.com/cn/app/id1491604486"
+    },
+    {
+        "name":"格言宝库",
+        "icon":"geyan.png",
+        "desc":"格言，是指可以作为人们行为规范的言简意赅的语句，是人们机智的精华，众人汇成的睿智，是指导人生走向成功之路的法宝，时刻激励人生取得进步。",
+        "url":"https://apps.apple.com/cn/app/id1433862387"
     }
 ]
