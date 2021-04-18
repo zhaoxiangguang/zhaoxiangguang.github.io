@@ -1,0 +1,14 @@
+[
+    {
+        "name":"PPPassword",
+        "icon":"pppassword.png",
+        "desc":"极简安全的密码管理工具，所有数据均保存在用户手机本地，不会上传网络，也不需要网络权限。",
+        "url":"https://apps.apple.com/cn/app/id1499177690"
+    },
+    {
+        "name":"尾号限行日历",
+        "icon":"chinaxx.png",
+        "desc":"便捷的限行尾号查询，一次设置，永久安心。支持自定义限行规则、支持多号牌管理、支持桌面小组件、支持Apple Watch。",
+        "url":"https://apps.apple.com/cn/app/id1491604486"
+    }
+]
