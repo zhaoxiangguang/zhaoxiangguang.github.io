@@ -22,5 +22,11 @@
         "icon":"tymy.png",
         "desc":"一对恋人总是从相见、相识、相知、相恋到相伴，关键是如何从相见相识相知到相恋相伴。",
         "url":"https://apps.apple.com/cn/app/id1421750000"
+    },
+    {
+        "name":"TODOT",
+        "icon":"todot.png",
+        "desc":"一款超极简的时间待办任务管理APP，新颖独特的三段时间管理模式，界面清新，操作简单。",
+        "url":"https://apps.apple.com/cn/app/id1439149349"
     }
 ]
