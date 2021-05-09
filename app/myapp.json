@@ -12,6 +12,18 @@
         "url":"https://apps.apple.com/cn/app/id1491604486"
     },
     {
+        "name":"北京限行日历",
+        "icon":"bjxx.png",
+        "desc":"便捷的限行尾号查询，内置北京限行规则。支持多号牌管理、支持桌面小组件、支持Apple Watch。",
+        "url":"https://apps.apple.com/cn/app/id1439866736"
+    },
+    {
+        "name":"广州限行日历",
+        "icon":"gzxx.png",
+        "desc":"便捷的广州开四停四小助手，智能区分正常停驶、违法行驶、限行日，支持iCloud备份，支持桌面小组件。",
+        "url":"https://apps.apple.com/cn/app/id1440452472"
+    },
+    {
         "name":"格言宝库",
         "icon":"geyan.png",
         "desc":"格言，是指可以作为人们行为规范的言简意赅的语句，是人们机智的精华，众人汇成的睿智，是指导人生走向成功之路的法宝，时刻激励人生取得进步。",
@@ -28,5 +40,11 @@
         "icon":"todot.png",
         "desc":"一款超极简的时间待办任务管理APP，新颖独特的三段时间管理模式，界面清新，操作简单。",
         "url":"https://apps.apple.com/cn/app/id1439149349"
+    },
+    {
+        "name":"Color & Font",
+        "icon":"fontcolor.png",
+        "desc":"颜色管理、配色方案管理、颜色分析记录，系统字体样式查看、自定义字体管理。",
+        "url":"https://apps.apple.com/cn/app/id1433892073"
     }
 ]
