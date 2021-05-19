@@ -1,5 +1,9 @@
 [
     {
+        "name":"天气预报",
+        "url":"https://e.weather.com.cn/mweather/101010100.shtml"
+    },
+    {
         "name":"违章查询",
         "url":"https://m.8684.cn/wz"
     },
