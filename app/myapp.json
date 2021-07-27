@@ -6,6 +6,12 @@
         "url":"https://apps.apple.com/cn/app/id1499177690"
     },
     {
+        "name":"心情遇记",
+        "icon":"mooddiary.png",
+        "desc":"简单好用的心情日记应用，支持多种记录方式，实用性很强的工具。分为心情和日记两大类，还可以统计数据，心情测试等等。",
+        "url":"https://apps.apple.com/cn/app/id1576640539"
+    },
+    {
         "name":"尾号限行日历",
         "icon":"chinaxx.png",
         "desc":"便捷的限行尾号查询，一次设置，永久安心。支持自定义限行规则、支持多号牌管理、支持桌面小组件、支持Apple Watch。",
