@@ -6,6 +6,12 @@
         "url":"https://apps.apple.com/cn/app/id1499177690"
     },
     {
+        "name":"今天过得好吗",
+        "icon":"abouttoday.png",
+        "desc":"你今天过得好吗？或忙碌，或悠闲，或开心，或烦恼。快来记录一下今天的生活质量和生活感受感悟吧。",
+        "url":"https://apps.apple.com/cn/app/id1578160564"
+    },
+    {
         "name":"心情遇记",
         "icon":"mooddiary.png",
         "desc":"简单好用的心情日记应用，支持多种记录方式，实用性很强的工具。分为心情和日记两大类，还可以统计数据，心情测试等等。",
