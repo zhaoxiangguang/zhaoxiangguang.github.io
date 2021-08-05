@@ -18,6 +18,12 @@
         "url":"https://apps.apple.com/cn/app/id1576640539"
     },
     {
+        "name":"人生日记",
+        "icon":"lifediary.png",
+        "desc":"人的一生就像一本日记书，每一个年龄又像一个小小的日记本，而日记本中的每一页又像现在的每一天。",
+        "url":"https://apps.apple.com/cn/app/id1578841566"
+    },
+    {
         "name":"尾号限行日历",
         "icon":"chinaxx.png",
         "desc":"便捷的限行尾号查询，一次设置，永久安心。支持自定义限行规则、支持多号牌管理、支持桌面小组件、支持Apple Watch。",
