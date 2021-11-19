@@ -24,10 +24,16 @@
         "url":"https://apps.apple.com/cn/app/id1578843767"
     },
     {
-        "name":"心情遇记",
+        "name":"心情日记",
         "icon":"mooddiary.png",
         "desc":"简单好用的心情日记应用，支持多种记录方式，实用性很强的工具。分为心情和日记两大类，还可以统计数据，心情测试等等。",
         "url":"https://apps.apple.com/cn/app/id1576640539"
+    },
+    {
+        "name":"上一次时间",
+        "icon":"lasttime.png",
+        "desc":"任务时间记录管理和提醒。还记得某件事情上一次做是什么时间吗？从上一次到现在间隔了多少天了，是否应该开始做下一次了？",
+        "url":"https://apps.apple.com/cn/app/id1578843558"
     },
     {
         "name":"人生日记",
