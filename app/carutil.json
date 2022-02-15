@@ -34,33 +34,5 @@
     {
         "name":"高速路况查询",
         "url":"http://gsgl.00cha.com"
-    },
-    {
-        "name":"油价查询",
-        "url":"http://www.52chaxun.com/show/?id=MzMx"
-    },
-    {
-        "name":"交通标志查询",
-        "url":"http://www.52chaxun.com/show/?id=Mjkw"
-    },
-    {
-        "name":"国内外航空公司电话查询",
-        "url":"http://www.52chaxun.com/show/?id=Mjg4"
-    },
-    {
-        "name":"实时路况查询",
-        "url":"http://www.52chaxun.com/show/?id=Mjg2"
-    },
-    {
-        "name":"汽车标志大全",
-        "url":"http://www.52chaxun.com/show/?id=MzQ3"
-    },
-    {
-        "name":"邮政编码查询",
-        "url":"http://www.52chaxun.com/show/?id=MzM1"
-    },
-    {
-        "name":"在线油耗计算器",
-        "url":"http://www.52chaxun.com/show/?id=MzEy"
     }
 ]
